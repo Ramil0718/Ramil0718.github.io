@@ -26,7 +26,7 @@ window.siteLocales.zh = {
     statusLabel: "状态",
     statusValue: "尝试硕士毕业",
     soundLabel: "最近在听",
-    soundValue: "J-pop 和 Anisong 歌单",
+    soundValue: "J-pop 和 动漫音乐 歌单",
     aboutKicker: "About",
     aboutTitle: "梦想成为有文化的肥宅",
     aboutIntro: "我是 Ramil，喜欢看动画、听 J-pop，也会偶尔剪 AMV 的人。这里记录一些关于兴趣和创作的小片段。",
@@ -65,15 +65,15 @@ window.siteLocales.zh = {
   amvWorks: [
     {
       title: "「缠流子的心跳，是单片刃在血管里发芽」",
-      description: "偏青春感的节奏剪辑，适合放校园、日常或夏日主题。",
+      description: "第一次尝试做AMV",
       meta: "2025 / 03:47 / J-pop",
-      cardMeta: "2025 / 03:47 / 青春感",
+      cardMeta: "2025 / 03:47 ",
       palette: "linear-gradient(135deg, #d85270, #e8b448)",
       video: "https://www.bilibili.com/video/BV1H57fzfEg3/?spm_id_from=333.1387.homepage.video_card.click&vd_source=9e24a182878e1693d04c3a9cd891a010",
     },
     {
       title: "Cry in Tokyo",
-      description: "更抒情的段落，可以展示情绪流、歌词卡点和角色关系。",
+      description: "2026 Gilrs Band Cry 同人迎春晚会作品",
       meta: "2026 / 04:03 / Anisong",
       cardMeta: "2026 / 04:03 / 抒情",
       palette: "linear-gradient(135deg, #4568dc, #0f9691)",
